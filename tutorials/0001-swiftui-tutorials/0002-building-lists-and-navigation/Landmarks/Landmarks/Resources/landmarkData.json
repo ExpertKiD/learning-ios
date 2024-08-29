@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Turtle Rock",
+        "category": "Rivers",
+        "city": "Twentynine Palms",
+        "state": "California",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Turtle Rock is a distinctive granite boulder formation located in Joshua Tree National Park, California. Known for its turtle-like shape, it is a popular spot for bouldering and photography. The surrounding area is rich with Joshua trees, cacti, and other desert flora, making it a prime example of the Mojave Desert's unique ecosystem. Visitors can enjoy hiking trails and stunning views of the desert landscape, especially at sunrise and sunset.",
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Silver Salmon Creek",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Silver Salmon Creek is located within Lake Clark National Park and Preserve in Alaska. The area is renowned for its rich wildlife, particularly the brown bears that frequent the creek to fish for salmon. The lush meadows and scenic views of the surrounding mountains and coastal landscape provide an idyllic backdrop for wildlife viewing, fishing, and photography. The creek is a tranquil and remote spot, offering visitors a true Alaskan wilderness experience.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Alaska",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "The Chilkoot Trail is a historic trail that stretches from Skagway, Alaska, to Bennett, British Columbia. It was a major route used during the Klondike Gold Rush in the late 19th century. Today, it is a popular hiking trail, known for its challenging terrain and stunning scenery, which includes dense forests, steep mountains, and glacial landscapes. Hikers on the trail can explore relics from the Gold Rush era, making it a fascinating blend of history and nature.",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "St. Mary Lake",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "St. Mary Lake is the second-largest lake in Glacier National Park, Montana. Known for its strikingly clear waters and stunning mountain backdrop, the lake offers some of the most scenic views in the park. The surrounding area is rich with wildlife, including bears, moose, and eagles. The lake is a popular destination for boating, fishing, and photography, particularly during the early morning and late evening when the light creates a beautiful reflection on the water.",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Twin Lake",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Twin Lake is a remote and pristine body of water located within Lake Clark National Park and Preserve, Alaska. Surrounded by rugged mountains and dense wilderness, the lake is a serene destination for backcountry camping, fishing, and wildlife viewing. The area is particularly known for its solitude and natural beauty, attracting those looking to experience Alaska's untouched landscapes. The nearby Proenneke Cabin, built by naturalist Richard Proenneke, adds historical interest to the area.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Lake McDonald",
+        "category": "Mountains",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Lake McDonald is the largest lake in Glacier National Park, Montana. This glacial lake is famous for its crystal-clear waters, colorful pebble beaches, and the stunning mountain scenery that surrounds it. Visitors to Lake McDonald can enjoy a variety of recreational activities, including boating, fishing, and hiking. The lake is also home to a rich variety of wildlife, making it a perfect spot for nature enthusiasts and photographers.",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "Charley Rivers is a remote and wild river located in Charley Rivers National Preserve, Alaska. The river runs through a rugged and largely untouched landscape, offering a true wilderness experience. It is popular among experienced paddlers and adventurers looking to explore Alaska's backcountry. The preserve is home to a variety of wildlife, including moose, bears, and wolves, and the river's waters are rich with fish, making it a prime location for angling.",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Icy Bay",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "Icy Bay is a remote bay located in Wrangell-St. Elias National Park and Preserve, Alaska. The bay is famous for its dramatic glaciers, icebergs, and towering mountains. It offers breathtaking views and is a prime destination for kayaking, glacier viewing, and wildlife photography. The area is rich in natural beauty and provides a rare opportunity to witness the power and majesty of Alaska's glaciers up close.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "Rainbow Lake is a peaceful and picturesque lake located near Willow, Alaska. It is part of a state recreation area that offers opportunities for fishing, boating, and camping. The lake is surrounded by lush forests and provides a tranquil setting for outdoor activities. In the winter, the area is popular for ice fishing and snowmobiling, making it a year-round destination for nature lovers and outdoor enthusiasts.",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "Hidden Lake is a stunning alpine lake nestled in North Cascades National Park, Washington. Known for its crystal-clear waters and surrounding rugged peaks, it is a popular destination for hikers seeking breathtaking views and solitude. The hike to Hidden Lake is challenging but rewarding, offering panoramic vistas of the Cascade Mountains, dense forests, and alpine meadows. The lake is often surrounded by snowfields, even in the summer, adding to its tranquil and pristine beauty.",
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Chincoteague",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Virginia",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "Chincoteague is a scenic island located on Virginia's Eastern Shore, renowned for its wild ponies and beautiful coastal landscapes. The Chincoteague National Wildlife Refuge, which encompasses much of the island, is a sanctuary for a diverse array of wildlife, including migratory birds, waterfowl, and the famous Chincoteague ponies. Visitors can explore sandy beaches, marshlands, and maritime forests while enjoying activities like birdwatching, kayaking, and wildlife photography.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Lake Umbagog",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Lake Umbagog is a large, serene lake straddling the border between New Hampshire and Maine. It is a key feature of the Umbagog National Wildlife Refuge, which protects the region's rich biodiversity. The lake is popular for boating, fishing, and wildlife viewing, particularly for sightings of loons, bald eagles, and moose. The surrounding wilderness offers opportunities for camping and canoeing, making Lake Umbagog a peaceful retreat for nature enthusiasts.",
+        "imageName": "umbagog"
+    }
+]
